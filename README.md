@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanam-Alilou
 - 👀 I’m interested in artificial intelligence in cardiology
 - 🌱 I’m currently studying medicine.
-- 💞️ I’m looking to collaborate on a reserach project related to AI in caardiology. 
+- 💞️ I’m looking to collaborate on a reserach project related to AI in cardiology. 
 - 📫 This is my email address: sanamalilou@yahoo.com
 
 <!---
